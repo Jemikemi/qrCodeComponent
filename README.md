@@ -25,7 +25,8 @@ This project was to build a qr code component
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Jemikemi/qrCodeComponent)
+- Solution URL: [Github](https://github.com/Jemikemi/qrCodeComponent)
+- Live site URL: [Github pages](https://jemikemi.github.io/qrCodeComponent/)
 ## My process
 
 ### Built with
